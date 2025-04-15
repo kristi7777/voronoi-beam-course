@@ -1,2 +1,2 @@
 # voronoi-beam-course
-Prep for theses
+Prep
